@@ -17,13 +17,12 @@ This repository contains three codes for controlling display on the robot's scre
 This code requires Python3, along with the following Python packages:
 - ROS2
 - screeninfo
-- pyqtgraph
-- PyQt5
+- Tkinter
 - OpenCV
 
 #### To install the dependencies:
 
-pip install ros2 screeninfo pyqtgraph PyQt5 opencv-python
+pip3 install screeninfo opencv-python
 
 
 ## Usage
