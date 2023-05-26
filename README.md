@@ -10,7 +10,7 @@ This repository contains three codes for controlling display on the robot's scre
 
 ## Demo
 
-![Demo](demo.png)
+![Demo](https://github.com/Groove852/pr_display_control_ros2/blob/main/images/demo.png)
 
 ## Requirements
 
