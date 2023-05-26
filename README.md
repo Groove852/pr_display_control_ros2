@@ -28,7 +28,6 @@ pip3 install screeninfo opencv-python
 
 ## Usage
 
-- Open three terminals and navigate to the path /pr_display_control_ros2/src/
 - In one terminal:
 
 ros2 run pr_display_control_ros2 big_display_controller
