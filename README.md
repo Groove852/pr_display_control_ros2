@@ -6,7 +6,7 @@ This repository contains three codes for controlling display on the robot's scre
 
 - **big_display_controller:** This code connects to the ROS2 topics used by the app_controller, extracts data and layout information, and sends it to the robot's main display.
 
-- **small_display_controller:** This code controls a secondary display on the robot, displaying images and text. It offers functions for showing images and overlaying text.
+- **small_display_controller:** This code controls a secondary display on the robot, displaying images.
 
 ## Demo
 
