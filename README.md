@@ -18,6 +18,7 @@ This code requires Python3, along with the following Python packages:
 - ROS2
 - screeninfo
 - Tkinter
+- customtkinter
 - OpenCV
 
 #### To install the dependencies:
